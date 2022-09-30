@@ -1,1 +1,1 @@
-# Applied-Graph-Theory
+# Applied Graph Theory
